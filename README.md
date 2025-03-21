@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository** (or create a new project directory):
    ```bash
-   git clone https://github.com/bm-197/ToDoTs
+   git clone https://github.com/bm-197/ToDoTs.git
    cd ToDoTs
    ```
 
